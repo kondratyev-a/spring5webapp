@@ -1,4 +1,4 @@
-#A simple web application for a list of books
+# A simple web application for a list of books
 Can store a list of Authors, Books, and Publishers with configured relations between tables (one to one, one to many, many to many). The application was created to learn and demonstrate the functionality of the Spring 5 Framework as part of the course [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
 
 ## Application features
@@ -8,7 +8,7 @@ Can store a list of Authors, Books, and Publishers with configured relations bet
   
 ![Application screenshot](images/booklist.png)
 
-##Used technologies
+## Used technologies
 - **Java 11**. The Core Java features. IntelliJ IDEA was used as IDE.
 - **Spring boot**. Spring initializr to set up dependencies for Maven in the project and the Embed Tomcat webserver to run the application.
 - **Spring Data JPA**. Java classes were declared with *@Entity* annotations to map them to database tables. In-memory H2 Database to store the data. CrudRepository class was used to interact with the database.
