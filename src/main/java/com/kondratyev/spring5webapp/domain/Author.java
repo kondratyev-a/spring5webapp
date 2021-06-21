@@ -1,4 +1,4 @@
-package kondratyev.com.spring5webapp.domain;
+package com.kondratyev.spring5webapp.domain;
 
 import javax.persistence.*;
 import java.util.HashSet;

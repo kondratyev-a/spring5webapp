@@ -1,6 +1,6 @@
-package kondratyev.com.spring5webapp.controllers;
+package com.kondratyev.spring5webapp.controllers;
 
-import kondratyev.com.spring5webapp.repositories.BookRepository;
+import com.kondratyev.spring5webapp.repositories.BookRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

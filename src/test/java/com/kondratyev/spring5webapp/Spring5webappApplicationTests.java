@@ -1,4 +1,4 @@
-package kondratyev.com.spring5webapp;
+package com.kondratyev.spring5webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

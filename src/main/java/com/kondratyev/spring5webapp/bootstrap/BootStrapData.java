@@ -1,11 +1,11 @@
-package kondratyev.com.spring5webapp.bootstrap;
+package com.kondratyev.spring5webapp.bootstrap;
 
-import kondratyev.com.spring5webapp.domain.Author;
-import kondratyev.com.spring5webapp.domain.Book;
-import kondratyev.com.spring5webapp.domain.Publisher;
-import kondratyev.com.spring5webapp.repositories.AuthorRepository;
-import kondratyev.com.spring5webapp.repositories.BookRepository;
-import kondratyev.com.spring5webapp.repositories.PublisherRepository;
+import com.kondratyev.spring5webapp.domain.Publisher;
+import com.kondratyev.spring5webapp.repositories.AuthorRepository;
+import com.kondratyev.spring5webapp.repositories.BookRepository;
+import com.kondratyev.spring5webapp.repositories.PublisherRepository;
+import com.kondratyev.spring5webapp.domain.Author;
+import com.kondratyev.spring5webapp.domain.Book;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
